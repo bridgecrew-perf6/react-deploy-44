@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "nodejs-firebase-demo-281ef",
+    "react": "nodejs-firebase-demo-281ef"
+  },
+  "targets": {}
+}
